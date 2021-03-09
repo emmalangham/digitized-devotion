@@ -11,20 +11,17 @@ body {
 
 #sticky-footer {
   flex-shrink: none;
+  background-color:#000000;
+  padding: 0px 0; 
 }
 
 .site-header {
   background-color:#000000;
-  }
+}
 
-body.home {
+body.index {
   background-image: url(walters-194-044.jpeg);
   background-color: #cccccc;
   background-repeat: no-repeat;
   background-size: cover;
- }
-
-.site-footer { 
-  background-color:#000000;
-  padding: 0px 0; 
 }
