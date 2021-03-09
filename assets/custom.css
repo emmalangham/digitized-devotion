@@ -1,0 +1,30 @@
+
+
+html,
+body {
+  height: 100%;
+}
+
+#page-content {
+  flex: 1 0 auto;
+}
+
+#sticky-footer {
+  flex-shrink: none;
+}
+
+.site-header {
+  background-color:#000000;
+  }
+
+body.home {
+  background-image: url(walters-194-044.jpeg);
+  background-color: #cccccc;
+  background-repeat: no-repeat;
+  background-size: cover;
+ }
+
+.site-footer { 
+  background-color:#000000;
+  padding: 0px 0; 
+}
